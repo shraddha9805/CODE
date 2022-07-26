@@ -49,8 +49,8 @@ print(f"volume of sphere {ans}")
 #write a python program to claculate surface area and value of cylinder
 
 pi=22/7
-r=4
-h=5
+r=7
+h=3
 ans=(2*pi*r*h)+(2*pi*r*r)
 print(f"surface area of cylinder {ans}")
 
